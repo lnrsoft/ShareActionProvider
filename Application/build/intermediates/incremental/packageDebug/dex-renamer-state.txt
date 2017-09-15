@@ -1,0 +1,4 @@
+#Tue Sep 12 12:13:14 BST 2017
+base.0=/Users/rolandihasz/AndroidStudioProjects/ActionBarCompat-ShareActionProvider/Application/build/intermediates/transforms/dex/debug/folders/1000/1f/main
+renamed.0=classes.dex
+file.0=/Users/rolandihasz/AndroidStudioProjects/ActionBarCompat-ShareActionProvider/Application/build/intermediates/transforms/dex/debug/folders/1000/1f/main/classes.dex

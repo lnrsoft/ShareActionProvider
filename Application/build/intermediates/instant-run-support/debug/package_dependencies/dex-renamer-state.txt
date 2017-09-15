@@ -1,0 +1,25 @@
+#Tue Sep 12 11:20:09 BST 2017
+renamed.7=classes2.dex
+renamed.6=classes.dex
+renamed.5=classes8.dex
+renamed.4=classes4.dex
+renamed.3=classes3.dex
+renamed.2=classes7.dex
+renamed.1=classes5.dex
+renamed.0=classes6.dex
+base.7=/Users/rolandihasz/AndroidStudioProjects/ActionBarCompat-ShareActionProvider/Application/build/intermediates/transforms/dex/debug/folders/1000/10/classes_439dbfafb4bddeaafdf40999301c4dcb2a7363f9
+base.6=/Users/rolandihasz/AndroidStudioProjects/ActionBarCompat-ShareActionProvider/Application/build/intermediates/transforms/dex/debug/folders/1000/10/classes_33e9ff2c234df44b02c8c39ad2c76d89e2ec2d77
+base.5=/Users/rolandihasz/AndroidStudioProjects/ActionBarCompat-ShareActionProvider/Application/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-24.1.1_4602bacbb4782f69fb46f13e2b5ce214cb02ea17
+base.4=/Users/rolandihasz/AndroidStudioProjects/ActionBarCompat-ShareActionProvider/Application/build/intermediates/transforms/dex/debug/folders/1000/10/classes_4efa8695fdcdad71adcf6b021cbd777c5c14f7b1
+base.3=/Users/rolandihasz/AndroidStudioProjects/ActionBarCompat-ShareActionProvider/Application/build/intermediates/transforms/dex/debug/folders/1000/10/classes_4b17bb80ce3f2df38ec9e54bcbc01450ec12bdd5
+base.2=/Users/rolandihasz/AndroidStudioProjects/ActionBarCompat-ShareActionProvider/Application/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.1.1_1aa25d23312e665479263f59e8e4ff9b0b2f3926
+base.1=/Users/rolandihasz/AndroidStudioProjects/ActionBarCompat-ShareActionProvider/Application/build/intermediates/transforms/dex/debug/folders/1000/10/classes_9960c47bd742b0041b6ec68f22a7602e52b39958
+base.0=/Users/rolandihasz/AndroidStudioProjects/ActionBarCompat-ShareActionProvider/Application/build/intermediates/transforms/dex/debug/folders/1000/10/classes_fbb32fc00efd0af13d04a17397e904a76376fb0a
+file.7=/Users/rolandihasz/AndroidStudioProjects/ActionBarCompat-ShareActionProvider/Application/build/intermediates/transforms/dex/debug/folders/1000/10/classes_439dbfafb4bddeaafdf40999301c4dcb2a7363f9/classes.dex
+file.6=/Users/rolandihasz/AndroidStudioProjects/ActionBarCompat-ShareActionProvider/Application/build/intermediates/transforms/dex/debug/folders/1000/10/classes_33e9ff2c234df44b02c8c39ad2c76d89e2ec2d77/classes.dex
+file.5=/Users/rolandihasz/AndroidStudioProjects/ActionBarCompat-ShareActionProvider/Application/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-24.1.1_4602bacbb4782f69fb46f13e2b5ce214cb02ea17/classes.dex
+file.4=/Users/rolandihasz/AndroidStudioProjects/ActionBarCompat-ShareActionProvider/Application/build/intermediates/transforms/dex/debug/folders/1000/10/classes_4efa8695fdcdad71adcf6b021cbd777c5c14f7b1/classes.dex
+file.3=/Users/rolandihasz/AndroidStudioProjects/ActionBarCompat-ShareActionProvider/Application/build/intermediates/transforms/dex/debug/folders/1000/10/classes_4b17bb80ce3f2df38ec9e54bcbc01450ec12bdd5/classes.dex
+file.2=/Users/rolandihasz/AndroidStudioProjects/ActionBarCompat-ShareActionProvider/Application/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.1.1_1aa25d23312e665479263f59e8e4ff9b0b2f3926/classes.dex
+file.1=/Users/rolandihasz/AndroidStudioProjects/ActionBarCompat-ShareActionProvider/Application/build/intermediates/transforms/dex/debug/folders/1000/10/classes_9960c47bd742b0041b6ec68f22a7602e52b39958/classes.dex
+file.0=/Users/rolandihasz/AndroidStudioProjects/ActionBarCompat-ShareActionProvider/Application/build/intermediates/transforms/dex/debug/folders/1000/10/classes_fbb32fc00efd0af13d04a17397e904a76376fb0a/classes.dex
